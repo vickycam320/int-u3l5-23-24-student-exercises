@@ -8,11 +8,13 @@ This lesson focused on using JavaScript to dynamically modify the style of eleme
    - It provides a way to add to or modify CSS styling of a webpage directly through JavaScript.
 
     The general format for using `.style` is:
+
     ```javascript
     selector.style.cssProperty = "value";
     ```
 
     **Example**: To set the width of an image:
+
     ```javascript
     firstImg.style.width = "400px";
     ```
@@ -24,6 +26,7 @@ This lesson focused on using JavaScript to dynamically modify the style of eleme
    - **Value**: Set the desired value for that property.
 
    **Example**: To set a div's background color to purple:
+
    ```javascript
    div1.style.backgroundColor = "purple";
    ```
@@ -38,6 +41,7 @@ This lesson focused on using JavaScript to dynamically modify the style of eleme
      | font-size        | fontSize        |
 
    **Example**:
+   
    ```javascript
    header.style.backgroundColor = "black";
    header.style.color = "lightGreen";
