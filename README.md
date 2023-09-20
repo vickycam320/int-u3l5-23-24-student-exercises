@@ -7,17 +7,17 @@ This lesson focused on using JavaScript to dynamically modify the style of eleme
    - The `.style` property lets you get or set inline styles of an element.
    - It provides a way to add to or modify CSS styling of a webpage directly through JavaScript.
 
-    The general format for using `.style` is:
+The general format for using `.style` is:
 
-    ```javascript
+```javascript
     selector.style.cssProperty = "value";
-    ```
+```
 
-    **Example**: To set the width of an image:
+Example: To set the width of an image:
 
-    ```javascript
+```javascript
     firstImg.style.width = "400px";
-    ```
+```
 
 ### Four Steps for Styling with JS
    - **Selector**: Choose the HTML element you want to style.
@@ -41,7 +41,7 @@ This lesson focused on using JavaScript to dynamically modify the style of eleme
      | font-size        | fontSize        |
 
    **Example**:
-   
+
    ```javascript
    header.style.backgroundColor = "black";
    header.style.color = "lightGreen";
