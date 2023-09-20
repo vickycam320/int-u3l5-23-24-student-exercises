@@ -51,7 +51,6 @@ Example: To set the width of an image:
 
 - JavaScript provides a powerful tool in the `.style` property to dynamically adjust styles.
 - Remember to use camel case for CSS properties that are typically hyphenated when using them in JavaScript.
-- Practicing with real-world coding activities helps solidify the concepts.
 
 ## **Further Reading**
 For those interested in diving deeper, consider looking into:
