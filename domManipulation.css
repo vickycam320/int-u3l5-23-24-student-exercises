@@ -1,0 +1,60 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.example-2 {
+    background-color: #191919;
+}
+
+.row-1 {
+    display: flex;
+    position: relative;
+    left: -8px;
+    margin: 20px;
+}
+
+.row-2 {
+    color: white;
+    display: flex;
+    position: relative;
+    left: -8px;
+    margin: 20px;
+}
+
+.circle {
+
+    border: 5px solid black;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 100%;
+    text-align: center;
+}
+
+.circle-2 {
+    border: 5px solid black;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 100%;
+    text-align: center;
+}
+
+
+.pink-2 {
+    background-color: pink;
+}
+
+.green-2 {
+    background-color: green;
+}
+
+.blue-2 {
+    background-color: blue;
+}
+
+.light-green-2 {
+    background-color: lightgreen;
+}
