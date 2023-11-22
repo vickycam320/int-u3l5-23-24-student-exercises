@@ -1,5 +1,5 @@
 // html elements
-let background = document.querySelector(".background");
+let example1 = document.querySelector(".example-1");
 let pink = document.querySelector(".pink");
 let green = document.querySelector(".green");
 let blue = document.querySelector(".blue");
@@ -8,7 +8,7 @@ let row1 = document.querySelector(".row-1");
 
 // CHALLENGE #1 - make the rows match
 
-// 1. Set the styling of `background` to a background color of black.
+// 1. Set the styling of `example1` to a background color of black.
 
 // 2. Set the styling of `pink` to a background color of pink.
 
