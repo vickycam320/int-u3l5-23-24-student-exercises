@@ -4,7 +4,7 @@ let button = document.querySelector("button");
 let img = document.querySelector("img");
 
 // 1. Press the button on the webpage to change it up! Take notice of what happens.
-// - What do you think .style does?
+// - What do you think .style does? it changes the style of the element
 
 // 2. Try the following:
 // - Make it so that the colors are different than what's used.
